@@ -7,7 +7,7 @@
       🔥 Former educator and equity consultant. Now working to build useful tools that deliver timely insights to users. <br>
       ✨ Favorite Tech: JavaScript, React, Node, Python in Jupyter Notebook ... <br>
       📧 callum.nelson95@gmail.com <br>
-      🎨 Portfolio: callumnelson.dev <br>
+      🎨 Portfolio: www.callumnelson.dev <br>
       💼 LinkedIn: www.linkedin.com/in/callum-nelson <br>
     </samp>
 </p>
